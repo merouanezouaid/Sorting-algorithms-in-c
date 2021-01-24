@@ -1,7 +1,3 @@
-// Code made by Kaito
-// All rights reserved awld l3bd , ghat9is fih chi haja ghatjibha f rask
-
-// NOTE: Khasni lih ghir l'interface o ykon software naaaaaaaaady :)
 
 #include <stdio.h>
 #include <stdlib.h>
